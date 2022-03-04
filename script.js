@@ -1,0 +1,1 @@
+console.log = src ('https://thanaapi.thanaptz.repl.co/')
